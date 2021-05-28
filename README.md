@@ -2,5 +2,5 @@
 
 ```diff
 + Upcoming
-! Detialed README.MD
+! Detailed README.MD
 ```
